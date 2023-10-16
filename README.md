@@ -8,13 +8,9 @@
 <p align="left"> <a href="https://twitter.com/psyreddy" target="_blank"><img src="https://img.shields.io/twitter/follow/psyreddy?logo=twitter&style=for-the-badge" alt="psyreddy" /></a> </p> -->
 
 - 🔭 I’m currently working on **Speech Enhancement using Self-supervised Learning**
-
 - 🌱 I’m currently learning **Computer Networking**
-
 - 💬 Ask me about **Neural Networks**
-
-- 📫 How to reach me **yaswanthpaipeti2002@gmail.com**
-
+- 📫 How to reach me **yaswanthreddy.paipeti@gmail.com**
 - ⚡ Fun fact **CNNs have achieved human-level accuracy in tasks like image recognition.**
 
 <h3 align="left">Languages and Tools</h3>
@@ -32,20 +28,16 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 
 <h4 align="left">Frontend Development</h4>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <h4 align="left"> Other </h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -63,6 +55,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyreddy&show_icons=true&locale=en&layout=compact" alt="psyreddy" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyreddy&show_icons=true&locale=en" alt="psyreddy" /></p> -->
+<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=psyreddy&show_icons=true&locale=en" alt="psyreddy" /></p> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=psyreddy&hide_border=true&border_radius=20&card_width=500)](https://git.io/streak-stats)
