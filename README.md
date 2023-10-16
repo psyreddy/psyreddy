@@ -63,7 +63,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyreddy&show_icons=true&locale=en&layout=compact" alt="psyreddy" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyreddy&show_icons=true&locale=en" alt="psyreddy" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyreddy&" alt="psyreddy" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyreddy&" alt="psyreddy" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=psyreddy&hide_border=true&border_radius=20&card_width=500)](https://git.io/streak-stats)
